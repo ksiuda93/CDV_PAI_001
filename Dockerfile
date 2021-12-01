@@ -1,4 +1,4 @@
-FROM nginx:1231231
+FROM nginx
 RUN apt-get update
 RUN apt-get upgrade -y
 
